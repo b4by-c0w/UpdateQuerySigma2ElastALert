@@ -3,6 +3,8 @@ This script use to update query from rule which write sigma format to elastalert
 
 
 **How to use**
+
+
 Set path of sigma tools. Download it from [here](https://github.com/SigmaHQ/sigma)
 
 python .\UpdateQueryRule.py -o '.\file_need_to_update.yml' -n '.\file_sigma_rule_use_for_updateyml'                                        
